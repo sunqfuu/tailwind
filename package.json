@@ -1,4 +1,22 @@
 {
+  "name": "tailwind",
+  "version": "1.0.0",
+  "description": "Welcome to my Tailwind CSS experiment repository! This project is intended to help me learn and experiment with Tailwind CSS.",
+  "homepage": "https://github.com/sunqfuu/tailwind#readme",
+  "bugs": {
+    "url": "https://github.com/sunqfuu/tailwind/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunqfuu/tailwind.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
     "@tailwindcss/cli": "^4.0.8",
     "tailwindcss": "^4.0.8"
