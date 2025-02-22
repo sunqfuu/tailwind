@@ -11,7 +11,7 @@
     "url": "git+https://github.com/sunqfuu/tailwind.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "sunqfu",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
